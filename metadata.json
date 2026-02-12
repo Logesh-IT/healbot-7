@@ -1,0 +1,9 @@
+{
+  "name": "HealBot AI - Advanced Healthcare Companion7",
+  "description": "A world-class medical chatbot featuring symptom analysis, disease prediction, mental health screening, and hospital finding using Gemini 3 and Google Grounding.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
