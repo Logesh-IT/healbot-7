@@ -22,3 +22,5 @@ View your app in AI Studio: https://ai.studio/apps/drive/1U75OK8LWmzEPWrzSpAv0AT
 =======
 # healbot-7
 >>>>>>> 18e85a781eaa6762a2d1fbb48ac04b6787cb7905
+>>>>>>>
+>>>>>>> DEPLOY : https://healbot-7.netlify.app/
